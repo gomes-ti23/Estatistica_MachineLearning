@@ -8,4 +8,4 @@ Este repositório é dedicado a exercícios práticos que exploram conceitos fun
 - Scripts organizados e prontos para rodar no ambiente Python.
 
 Sinta-se à vontade para explorar, sugerir melhorias ou contribuir com novos exercícios!
-```
+
